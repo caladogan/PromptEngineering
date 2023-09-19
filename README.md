@@ -1,6 +1,5 @@
 # PromptEngineering
-This project consists of various use cases of prompt engineering. Each file has their own use case explaations for users to contribute and use. 
-We also suggest you to check [DeepLearning.ai](https://deeplearning.ai) "ChatGPT Prompt Engineering for Developers" training.
+This project includes a multitude of minor ChatGPT application use cases. In each file, you can submit and utilize use case descriptions. We also suggest that you investigate the "ChatGPT Prompt Engineering for Developers" program by [DeepLearning.ai](https://deeplearning.ai).
 
 ## Setup
 
